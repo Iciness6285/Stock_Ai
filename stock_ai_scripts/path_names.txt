@@ -1,0 +1,9 @@
+script_path = your/path/to/stock_ai_scripts
+data_path = your/path/to/stock_ai_data
+
+Replace the paths with your own paths where you have saved the script, and data folder.
+The script path must be in line 1, the data path in line 2 of this text file.
+
+In my case, the paths looked like this:
+script_path = /mnt/c/Users/flore/OneDrive/programs/stock_ai_scripts
+data_path = /mnt/c/Users/flore/Dokumente/python/stock_ai_data
